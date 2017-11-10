@@ -3,7 +3,7 @@
 First, download the library from npm:
 
 ```
-npm install react-native-maps --save
+npm install https://github.com/tagip/react-native-maps.git --save
 ```
 
 Second, install the native dependencies: You can use `rnpm` (now part of `react-native` core via `link`) to
